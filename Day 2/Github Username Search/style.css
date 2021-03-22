@@ -1,0 +1,14 @@
+.img-thumbnail
+{
+    width: 150px;
+    height: 150px;
+}
+ 
+.details
+{
+    height: 200px;
+  width: 200px;
+  color:rgb(255, 0, 0);
+  text-align: right;
+  margin: auto;
+}   

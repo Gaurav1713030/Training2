@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Delegate_Book/1.0.0": {
+        "runtime": {
+          "Delegate_Book.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegate_Book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

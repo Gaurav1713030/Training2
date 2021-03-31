@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\bin\Debug\netcoreapp3.1\Delegate_Book.exe
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\bin\Debug\netcoreapp3.1\Delegate_Book.deps.json
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\bin\Debug\netcoreapp3.1\Delegate_Book.runtimeconfig.json
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\bin\Debug\netcoreapp3.1\Delegate_Book.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\bin\Debug\netcoreapp3.1\Delegate_Book.dll
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\bin\Debug\netcoreapp3.1\Delegate_Book.pdb
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\obj\Debug\netcoreapp3.1\Delegate_Book.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\obj\Debug\netcoreapp3.1\Delegate_Book.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\obj\Debug\netcoreapp3.1\Delegate_Book.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\obj\Debug\netcoreapp3.1\Delegate_Book.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\obj\Debug\netcoreapp3.1\Delegate_Book.dll
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\obj\Debug\netcoreapp3.1\Delegate_Book.pdb
+C:\Users\lenovo\source\repos\Delegate_Book\Delegate_Book\obj\Debug\netcoreapp3.1\Delegate_Book.genruntimeconfig.cache

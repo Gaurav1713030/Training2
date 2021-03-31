@@ -1,0 +1,13 @@
+C:\training\Day7\polymorphismdemo\Project Name\bin\Debug\netcoreapp3.1\Project Name.exe
+C:\training\Day7\polymorphismdemo\Project Name\bin\Debug\netcoreapp3.1\Project Name.deps.json
+C:\training\Day7\polymorphismdemo\Project Name\bin\Debug\netcoreapp3.1\Project Name.runtimeconfig.json
+C:\training\Day7\polymorphismdemo\Project Name\bin\Debug\netcoreapp3.1\Project Name.runtimeconfig.dev.json
+C:\training\Day7\polymorphismdemo\Project Name\bin\Debug\netcoreapp3.1\Project Name.dll
+C:\training\Day7\polymorphismdemo\Project Name\bin\Debug\netcoreapp3.1\Project Name.pdb
+C:\training\Day7\polymorphismdemo\Project Name\obj\Debug\netcoreapp3.1\Project Name.csprojAssemblyReference.cache
+C:\training\Day7\polymorphismdemo\Project Name\obj\Debug\netcoreapp3.1\Project Name.AssemblyInfoInputs.cache
+C:\training\Day7\polymorphismdemo\Project Name\obj\Debug\netcoreapp3.1\Project Name.AssemblyInfo.cs
+C:\training\Day7\polymorphismdemo\Project Name\obj\Debug\netcoreapp3.1\Project Name.csproj.CoreCompileInputs.cache
+C:\training\Day7\polymorphismdemo\Project Name\obj\Debug\netcoreapp3.1\Project Name.dll
+C:\training\Day7\polymorphismdemo\Project Name\obj\Debug\netcoreapp3.1\Project Name.pdb
+C:\training\Day7\polymorphismdemo\Project Name\obj\Debug\netcoreapp3.1\Project Name.genruntimeconfig.cache

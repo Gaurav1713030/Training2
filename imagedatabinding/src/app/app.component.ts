@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component } from '@angular/core'
+
 
 @Component({
   selector: 'app-root',
@@ -7,15 +8,17 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'imagedatabinding';
-  height =200;
-  width =200;
-  imgSource = "../assets/front.jpg";
-
-  changeTshirtMouseEnter(): void{
-    this.imgSource = "../assets/back.jpg"
+  showDataBindingDemo = true;
+  showDirectiveDemo= false;
+  showdemo() : void
+  {
+    this.showDataBindingDemo = true;
+   this.showDirectiveDemo = false;
   }
-  changeTshirtMouseExit(): void{
-    this.imgSource = "../assets/front.jpg"
+
+  showdirectivedemo(): void{
+    this.showDataBindingDemo = false;
+    this.showDirectiveDemo = true;
   }
 
 }

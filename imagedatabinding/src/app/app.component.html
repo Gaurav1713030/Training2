@@ -1,3 +1,38 @@
-<input type="number" [(ngModel)] = "height">
-<img  (mouseenter)="changeTshirtMouseEnter()" (mouseleave)= "changeTshirtMouseExit()" [src]='imgSource' [style.height.px] = 'height' [style.width.px] = 'width' class= "img img-fluid">
-<input type="number"[(ngModel)] = "width">
+<style>
+  h1 {text-align: center;
+  font-style: bold;
+  font-family: "Times New Roman", Times, serif;
+
+padding: 1%;}
+.row{
+  text-align: center;
+}
+  p {text-align: center;}
+  div {text-align: center;}
+  .col-md-3{
+    align-content: center;
+    align-items: center;
+  }
+  .container{
+    align-content: center;
+    align-items: center;
+  }
+  </style>
+<div class="container">
+  <h1 >Image Data Binding</h1>
+  <div class ="row justify-content-center" >
+    <div class = "col-md-3 justify-content-center ">
+        <button (click)= "showdemo()" class="btn btn-danger">Data Binding</button>
+    </div>
+
+    <div class="col-md-3 justify-content-center">
+      <button (click)= "showdirectivedemo()" class="btn btn-info">Structure Directive Demo</button>
+    </div>
+    
+  </div>
+  <hr/>
+  <div class="row">
+  <app-hello *ngIf = "showDataBindingDemo" ></app-hello>
+  <app-product *ngIf="showDirectiveDemo"></app-product>
+  </div>
+</div>

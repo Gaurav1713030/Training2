@@ -16,16 +16,16 @@ export class HelloComponent implements OnInit {
   a: any= undefined;
   
   //color : string = 'black';
-  imgSource = '../assets/front.png';
+  imgSource = '../assets/front.jpg';
   
   
 
     changeTshirtMouseEnter():void {
-      this.imgSource = '../assets/back.img';
+      this.imgSource = '../assets/back.jpg';
     }
 
     changeTshirtMouseExit():void {
-      this.imgSource = '../assets/front.img';
+      this.imgSource = '../assets/front.jpg';
     }
 //     generate(): void {
 //       //this.handelEror()

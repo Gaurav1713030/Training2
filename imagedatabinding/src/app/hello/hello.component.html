@@ -1,1 +1,42 @@
-<p>hello works!</p>
+<h2>Image Data Binding</h2>
+<div  class="container" ><div class="row">
+    
+    <div class="col-md-6">
+      <input type="number"[(ngModel)] = "height" class="form-control">
+    </div>
+   
+    <div class="col-md-6">
+      <input type="number"[(ngModel)] = "width" class="form-control">
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="row">
+    <div class="col-md-4">
+  
+    </div>
+    <div class="col-md-4">
+      
+  <img  (mouseenter)="changeTshirtMouseEnter()" (mouseleave)= "changeTshirtMouseExit()" [src]='imgSource' [style.height.px] = 'height' [style.width.px] = 'width' class= "img img-fluid">
+  
+  
+
+  
+    </div>
+    <div class="col-md-4">
+  
+    </div>
+    
+    
+  </div>
+  <br>
+  <h4 >This Demo is based on data binding. In Angular There are three types of data binding:</h4>
+  <ul>
+    <ol>Interpolation</ol>
+    <ol>Property Binding</ol>
+    <ol>Event Binding</ol>
+  </ul>
+  </div>

@@ -6,52 +6,52 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularTraining';
-  // a=100;
-  // b=200;
-  // setWidth():void{
-  //   this.a = 100;
-  //   this.b = 200;
-  // }
-  // Title = 'Choose T-shirt';
-  // Height = 300;
-  // Width = 300;
-  // imgSource = '../assets/front.jpg';
-  // ChangeTshirtMouseEnter():void{
-  //   this.imgSource='../assets/back.jpg';
-  // }
-  // ChangeTshirtMouseExit():void{
-  //   this.imgSource = '../assets/front.jpg'
-  isbindingvisivle = true;
-  issdvisible = false;
-  showProductTable=false;
-  showPurchase= false;
-  
-  showDemo():void{
-    this.isbindingvisivle = true;
-    this.issdvisible = false;   
-    this.showProductTable=false;
+  title = 'Data Binding';
+  showDataBindingDemo = true;
+  showDirectiveDemo = false;
+  showPurchase = false;
+  showData = false;
+  showAttributeDirective = false;
+  showdemo() : void
+  {
+    this.showDataBindingDemo = true;
+    this.showDirectiveDemo = false;
     this.showPurchase = false;
+    this.showData = false;
+    this.showAttributeDirective = false;
   }
- 
-  showdirectiveDemoFunction(): void{
-    this.isbindingvisivle= false;
-    this.showProductTable=false;
-    this.issdvisible = true;
+
+  showdirectivedemo(): void {
+    this.showDataBindingDemo = false;
+    this.showDirectiveDemo = true;
     this.showPurchase = false;
+    this.showData = false;
+    this.showAttributeDirective = false;
   }
- 
-  showProductsTable(): void{
-    this.isbindingvisivle = false;
-    this.issdvisible = false;
-    this.showProductTable = true;
-    this.showPurchase = false;
-  }
-  MasterDetailsFunction(): void{
-    this.isbindingvisivle= false;
-    this.showProductTable=false;
-    this.issdvisible = false;
+  showpurchase() : void {
+    this.showDataBindingDemo = false;
+    this.showDirectiveDemo = false;
     this.showPurchase = true;
+    this.showData = false;
+    this.showAttributeDirective = false;
+  }
+
+  showdata() : void 
+  {
+    this.showDataBindingDemo = false;
+    this.showDirectiveDemo = false;
+    this.showPurchase = false;
+  
+  this.showData = true;
+  this.showAttributeDirective = false;
+  }
+
+  showattdirective() : void {
+    this.showDataBindingDemo = false;
+    this.showDirectiveDemo = false;
+    this.showPurchase = false;
+    this.showData = false;
+  this.showAttributeDirective = true;
+    
   }
 }
-

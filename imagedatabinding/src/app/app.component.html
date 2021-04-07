@@ -1,80 +1,60 @@
- <!-- <h1>Hello</h1>
-<button (Click) = 'setWidth()'[style.height.px]='a'[style.width.px]='b'>Click Me</button>
-<img src = "../assets/a.png"[style.height.px]='a'[style.width.px]='b'>
-<input type ="number"[(ngModel)] = 'a'then/> -->
-<!-- <div class="row">
-  <div clas="col-md-4">
-
-  </div>
-  <div class = "col-md-4">
-    <img(mouseenter)='ChangeTshirtMouseEnter()' (mouseLeave) = 'ChangeTshirtMouseExit()'
-    [src]='imgSource' [style.height.px]='height'
-    [style.width.px]='width'
-    class = "img img-fluid"/>
-  </div>
-  <div class= "col-md-4">
-
-  </div>
-</div> -->
-<!-- <div>
-  <div class = "row">
-    <div class = "col-md-2"></div>
-      <div class = "col-md-4"><h1>{{title}}</h1></div>
-      <div class = "col-md-2"></div>
-</div>
-<div></div>
-<input type = "number" [(ngModel)] =Height>
-<input type = "number" [(ngModel)] = Width>
 <br>
-<br>
-<img  (mouseleave)='ChangeTshirtMouseExit()' (mouseenter)='ChangeTshirtMouseEnter()' 
-[src]='imgSource' [style.height.px]='Height' [style.width.px]='Width'> -->
-
-
-
-<style>
-  h1 {text-align: center;
-  font-style: bold;
-  font-family: "Times New Roman", Times, serif;
-
-padding: 1%;}
-.row{
-  text-align: center;
-}
-  p {text-align: center;}
-  div {text-align: center;}
-  .col-md-3{
-    align-content: center;
-    align-items: center;
-  }
-  .container{
-    align-content: center;
-    align-items: center;
-  }
-  </style>
-<div class = "container">
-  <h1 class = "text-center">Angular Training</h1>
+<div  class="container" >
+  <!-- <h2 class="text-danger" >Angular Project Demo</h2> -->
+ <div class="container-fluid">
   <div class="row">
-    <div class = "col-md-3">
-      <button (click) ='showDemo()' class = "btn btn-danger text-align: center" text-align: center> Data Binding Demo </button>
-    </div>
-
-
-    <!-- <div class="col-md-3">
-      <button (click)='showdirectiveDemoFunction()' class= "btn btn-warning"> Structural Directive Demo</button>
-    </div> -->
-    <div class="col-md-3">
-      <button (click)=' showProductsTable()' class="btn btn-warning">Product List</button>
-    </div>
-    <div class="col-md-3">
-      <button (click)=' MasterDetailsFunction()' class="btn btn-info">Master Details</button>
-    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark  harshit" >
+      <a class="navbar-brand" routerLink ="/home">Gaurav</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link"  routerLink ="/databinding">Data Binding <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink ="/products">Structural Direc</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink ="/masterdetails">Master Details</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link " routerLink ="/sharedata" >Share Data</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  routerLink ="/attributedirective"  >Attribute Directive</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link "  routerLink ="/generateerror"> Generate Er</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link "  routerLink ="/login"> Login</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <br>
   </div>
-  <hr/>
-  <div class="col-md-12">
-    <app-tshirtdatabinding *ngIf = "isbindingvisivle"></app-tshirtdatabinding>
-    <app-hello *ngIf="issdvisible"></app-hello>
-    <app-product *ngIf ="showProductTable"></app-product>
-    <app-purchase *ngIf ="showPurchase"></app-purchase>
+</div>
+<router-outlet></router-outlet>  
+</div>
+
+
+  
+  <!-- <div class="row">
+    <div class="col-md-12">
+    <app-hello *ngIf="showDataBindingDemo"></app-hello>
+    <app-product *ngIf="showDirectiveDemo"></app-product>
+    <app-purchase *ngIf="showPurchase"></app-purchase>
+    <app-sharedata *ngIf ="showData"></app-sharedata>
+    </div>
+    <app-attributedirective *ngIf = "showAttributeDirective"></app-attributedirective>  -->
     
- 
+  <!-- <button routerLink ="/databinding">Data Binding</button>
+    <button routerLink ="/products">Structural Directive</button>
+    <button routerLink ="/masterdetails">Master Details</button>
+    <button routerLink ="/attributedirective">Attribute Dir</button> -->
+    
+
+

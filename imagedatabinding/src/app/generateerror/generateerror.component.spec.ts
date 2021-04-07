@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { TshirtdatabindingComponent } from './tshirtdatabinding.component';
+import { GenerateerrorComponent } from './generateerror.component';
 
-describe('TshirtdatabindingComponent', () => {
-  let component: TshirtdatabindingComponent;
-  let fixture: ComponentFixture<TshirtdatabindingComponent>;
+describe('GenerateerrorComponent', () => {
+  let component: GenerateerrorComponent;
+  let fixture: ComponentFixture<GenerateerrorComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ TshirtdatabindingComponent ]
+      declarations: [ GenerateerrorComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(TshirtdatabindingComponent);
+    fixture = TestBed.createComponent(GenerateerrorComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

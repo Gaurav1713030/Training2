@@ -1,0 +1,65 @@
+<!-- 
+         <form ng>
+            <div class="form-group">
+              <label for="exampleInputEmail1">ID</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputPassword1">Title</label>
+              <input type="password" class="form-control" id="exampleInputPassword1">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputEmail1">Price</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputPassword1">Expiry Date</label>
+              <input type="password" class="form-control" id="exampleInputPassword1">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Quantity</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              </div>
+              <div class="form-group">
+                <label for="exampleInputPassword1">In Stock</label>
+                <input type="password" class="form-control" id="exampleInputPassword1">
+              </div>
+            <button type="submit" class="btn btn-primary">Update</button>
+          </form>
+    
+ -->
+
+   <div style="width: 50%; float: left;" >
+ 
+      <form (ngSubmit)='updateProduct()' [formGroup]='productEditForm' novalidate class="form">
+        <input formControlName='Id' class="form-control form-control-lg" type="text">
+        <div class="form-group">
+          
+        </div>
+        <input formControlName='Title' class="form-control form-control-lg" type="text">
+        <div class="form-group">
+         
+        </div>
+          <input formControlName='Price' class="form-control form-control-lg" type="text">
+          <div class="alert alert-danger" *ngIf="!productEditForm?.get('Price')?.valid && productEditForm?.get('Price')?.touched">
+            price is required and must be between{{min}} to {{max}} is Required
+        </div>
+          <input formControlName='Quantity' class="form-control form-control-lg" type="text">
+          <div class="form-group">
+            
+          </div>
+          <input formControlName='ExpiryDate' class="form-control form-control-lg" type="text">
+          <div class="form-group">
+            
+          </div>
+          <input formControlName='inStock' class="form-control form-control-lg" type="text" >
+          <div class="form-group">
+            
+          </div>
+          <button type= "submit" [disabled]='productEditForm.invalid' class="btn btn-primary mb-2">Update Product</button>
+      
+      </form>
+</div>
+
+
+

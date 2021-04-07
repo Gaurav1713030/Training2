@@ -21,11 +21,11 @@ export class HelloComponent implements OnInit {
   
 
     changeTshirtMouseEnter():void {
-      this.imgSource = '../assets/back.png';
+      this.imgSource = '../assets/back.img';
     }
 
     changeTshirtMouseExit():void {
-      this.imgSource = '../assets/front.png';
+      this.imgSource = '../assets/front.img';
     }
 //     generate(): void {
 //       //this.handelEror()

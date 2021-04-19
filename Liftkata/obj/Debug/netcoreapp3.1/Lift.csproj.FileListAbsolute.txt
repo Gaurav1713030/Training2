@@ -1,0 +1,4 @@
+C:\training\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.csprojAssemblyReference.cache
+C:\training\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.AssemblyInfoInputs.cache
+C:\training\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.AssemblyInfo.cs
+C:\training\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.csproj.CoreCompileInputs.cache

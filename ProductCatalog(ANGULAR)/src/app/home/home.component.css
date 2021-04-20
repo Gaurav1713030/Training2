@@ -1,0 +1,138 @@
+.h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000;
+    font-family: Rye;
+    font-size: 60px;
+    text-shadow: 0 -20px 40px #fa0;
+    animation-name: orange;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  @keyframes orange {
+    10% {
+      text-shadow: -10px -20px 60px #ffa;
+    }
+    20% {
+      text-shadow: -10px -20px 65px #fa0;
+    }
+    30% {
+      text-shadow: -10px -20px 55px #fa0;
+    }
+    40% {
+      text-shadow: -10px -20px 70px #ff0;
+    }
+    50% {
+      text-shadow: -10px -20px 50px #fa0;
+    }
+    60% {
+      text-shadow: -10px -20px 60px #fa0;
+    }
+    70% {
+      text-shadow: -10px -20px 65px #ff0;
+    }
+    80% {
+      text-shadow: -10px -20px 55px #fa0;
+    }
+    90% {
+      text-shadow: -10px -20px 70px #ff0;
+    }
+    100% {
+      text-shadow: -10px -20px 50px #ff0;
+    }
+  }
+  h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000;
+    font-family: Rye;
+    font-size: 60px;
+    text-shadow: 0 -10px 10px #f00;
+    animation-name: red;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  @keyframes red {
+    10% {
+      text-shadow: -10px -15px 20px #f33;
+    }
+    20% {
+      text-shadow: -10px -15px 35px #f00;
+    }
+    30% {
+      text-shadow: -10px -15px 25px #f00;
+    }
+    40% {
+      text-shadow: -10px -15px 40px #f33;
+    }
+    50% {
+      text-shadow: -10px -15px 30px #f00;
+    }
+    60% {
+      text-shadow: -10px -15px 45px #f33;
+    }
+    70% {
+      text-shadow: -10px -15px 40px #f00;
+    }
+    80% {
+      text-shadow: -10px -15px 25px #f33;
+    }
+    90% {
+      text-shadow: -10px -15px 30px #f00;
+    }
+    100% {
+      text-shadow: -10px -15px 50px #f00;
+    }
+  }
+  #h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #eef;
+    font-family: Rye;
+    font-size: 60px;
+    text-shadow: 0 -3px 5px #00f;
+    animation-name: blue;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  @keyframes blue {
+    10% {
+      text-shadow: 0px -10px 15px #55f;
+    }
+    20% {
+      text-shadow: 0px -10px 10px #77f;
+    }
+    30% {
+      text-shadow: 0px -10px 20px #33f;
+    }
+    40% {
+      text-shadow: 0px -10px 10px #77f;
+    }
+    50% {
+      text-shadow: 0px -10px 5px #c3f;
+    }
+    60% {
+      text-shadow: 0px -10px 15px #77f;
+    }
+    70% {
+      text-shadow: 0px -10px 20px #55f;
+    }
+    80% {
+      text-shadow: 0px -10px 10px #a0a;
+    }
+    90% {
+      text-shadow: 0px -10px 15px #55f;
+    }
+    100% {
+      text-shadow: 0px -10px 5px #c3f;
+    }
+  }
+  

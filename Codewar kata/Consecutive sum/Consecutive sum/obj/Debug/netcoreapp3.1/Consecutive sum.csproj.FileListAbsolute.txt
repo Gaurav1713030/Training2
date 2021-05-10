@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\bin\Debug\netcoreapp3.1\Consecutive sum.exe
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\bin\Debug\netcoreapp3.1\Consecutive sum.deps.json
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\bin\Debug\netcoreapp3.1\Consecutive sum.runtimeconfig.json
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\bin\Debug\netcoreapp3.1\Consecutive sum.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\bin\Debug\netcoreapp3.1\Consecutive sum.dll
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\bin\Debug\netcoreapp3.1\Consecutive sum.pdb
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\obj\Debug\netcoreapp3.1\Consecutive sum.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\obj\Debug\netcoreapp3.1\Consecutive sum.AssemblyInfo.cs
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\obj\Debug\netcoreapp3.1\Consecutive sum.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\obj\Debug\netcoreapp3.1\Consecutive sum.dll
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\obj\Debug\netcoreapp3.1\Consecutive sum.pdb
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\obj\Debug\netcoreapp3.1\Consecutive sum.genruntimeconfig.cache
+C:\Users\S S INFOTECH\Desktop\n\Consecutive sum\Consecutive sum\obj\Debug\netcoreapp3.1\Consecutive sum.csprojAssemblyReference.cache

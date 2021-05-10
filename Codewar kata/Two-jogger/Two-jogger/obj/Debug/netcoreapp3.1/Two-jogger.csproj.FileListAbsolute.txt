@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\bin\Debug\netcoreapp3.1\Two-jogger.exe
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\bin\Debug\netcoreapp3.1\Two-jogger.deps.json
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\bin\Debug\netcoreapp3.1\Two-jogger.runtimeconfig.json
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\bin\Debug\netcoreapp3.1\Two-jogger.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\bin\Debug\netcoreapp3.1\Two-jogger.dll
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\bin\Debug\netcoreapp3.1\Two-jogger.pdb
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\obj\Debug\netcoreapp3.1\Two-jogger.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\obj\Debug\netcoreapp3.1\Two-jogger.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\obj\Debug\netcoreapp3.1\Two-jogger.AssemblyInfo.cs
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\obj\Debug\netcoreapp3.1\Two-jogger.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\obj\Debug\netcoreapp3.1\Two-jogger.dll
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\obj\Debug\netcoreapp3.1\Two-jogger.pdb
+C:\Users\S S INFOTECH\Desktop\n\Two-jogger\Two-jogger\obj\Debug\netcoreapp3.1\Two-jogger.genruntimeconfig.cache

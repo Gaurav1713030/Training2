@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\bin\Debug\netcoreapp3.1\kata2.exe
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\bin\Debug\netcoreapp3.1\kata2.deps.json
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\bin\Debug\netcoreapp3.1\kata2.runtimeconfig.json
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\bin\Debug\netcoreapp3.1\kata2.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\bin\Debug\netcoreapp3.1\kata2.dll
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\bin\Debug\netcoreapp3.1\kata2.pdb
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\obj\Debug\netcoreapp3.1\kata2.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\obj\Debug\netcoreapp3.1\kata2.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\obj\Debug\netcoreapp3.1\kata2.AssemblyInfo.cs
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\obj\Debug\netcoreapp3.1\kata2.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\obj\Debug\netcoreapp3.1\kata2.dll
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\obj\Debug\netcoreapp3.1\kata2.pdb
+C:\Users\S S INFOTECH\Desktop\n\kata2\kata2\obj\Debug\netcoreapp3.1\kata2.genruntimeconfig.cache
